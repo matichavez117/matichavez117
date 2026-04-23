@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Matías Chavez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Building+Scalable+Products;React+%7C+TypeScript+%7C+React+Native;AI+Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Building+Scalable+Products;React+%7C+TypeScript+%7C+React+Native" />
 </p>
 
 <p align="center">
