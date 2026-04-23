@@ -74,21 +74,6 @@ Strong focus on **architecture, scalability and clean code**.
 
 ---
 
-## 🤖 AI Engineering
-
-I don’t use AI as a gimmick — I integrate it into real products.
-
-- 🧠 AI-powered chatbots & assistants
-- 🔐 Secure backend design for AI systems
-- 💬 Context-aware conversational flows
-- ⚡ Prompt engineering for better UX
-- 🔄 AI + APIs + Databases integration
-- 🛠️ Automation tools powered by AI
-
-> Focus: **useful, scalable, production-ready AI systems**
-
----
-
 ## 🏗️ Engineering Mindset
 
 - Clean Architecture
