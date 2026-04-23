@@ -78,11 +78,11 @@ I don’t use AI as a gimmick — I integrate it into real products.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USER&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=matichavez117&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USER&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matichavez117&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -90,7 +90,7 @@ I don’t use AI as a gimmick — I integrate it into real products.
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USER/TU_USER/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/matichavez117/matichavez117/output/snake.svg" />
 </p>
 
 ---
