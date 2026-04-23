@@ -39,7 +39,7 @@ Strong focus on **architecture, scalability and clean code**.
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,firebase,vite" />
 </p>
 
 <p align="center">
@@ -54,6 +54,7 @@ Strong focus on **architecture, scalability and clean code**.
   <img src="https://img.shields.io/badge/Socket.IO-000?logo=socketdotio" />
   <img src="https://img.shields.io/badge/OAuth-000?logo=auth0" />
   <img src="https://img.shields.io/badge/Google%20Services-000?logo=google" />
+  <img src="https://img.shields.io/badge/PWA-000?logo=pwa" />
 </p>
 
 ---
