@@ -51,6 +51,12 @@ Strong focus on **architecture, scalability and clean code**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Material%20UI-000?logo=mui" />
+  <img src="https://img.shields.io/badge/Zustand-000?logo=react" />
+  <img src="https://img.shields.io/badge/React%20Router-000?logo=reactrouter" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-000?logo=reactquery" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Socket.IO-000?logo=socketdotio" />
   <img src="https://img.shields.io/badge/OAuth-000?logo=auth0" />
   <img src="https://img.shields.io/badge/Google%20Services-000?logo=google" />
