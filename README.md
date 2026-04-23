@@ -65,6 +65,8 @@ Strong focus on **architecture, scalability and clean code**.
   <img src="https://img.shields.io/badge/Sentry-000?logo=sentry" />
 </p>
 
+---
+
 ### 🧠 State, Data & Observability
 - State management with Context & Zustand
 - Server state with TanStack Query
