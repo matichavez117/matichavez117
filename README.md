@@ -87,14 +87,6 @@ I don’t use AI as a gimmick — I integrate it into real products.
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/matichavez117/matichavez117/output/snake.svg" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 Scaling to **Senior+ / Staff Engineer**
