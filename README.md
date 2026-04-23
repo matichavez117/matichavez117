@@ -44,6 +44,24 @@ Strong focus on **architecture, scalability and clean code**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Native-000?logo=react" />
+  <img src="https://img.shields.io/badge/Expo-000?logo=expo" />
+  <img src="https://img.shields.io/badge/Capacitor-000?logo=ionic" />
+  <img src="https://img.shields.io/badge/Ionic-000?logo=ionic" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Material%20UI-000?logo=mui" />
+  <img src="https://img.shields.io/badge/Socket.IO-000?logo=socketdotio" />
+  <img src="https://img.shields.io/badge/OAuth-000?logo=auth0" />
+  <img src="https://img.shields.io/badge/Google%20Services-000?logo=google" />
+</p>## ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20Native-000?logo=react" />
   <img src="https://img.shields.io/badge/Capacitor-000?logo=ionic" />
   <img src="https://img.shields.io/badge/Ionic-000?logo=ionic" />
 </p>
