@@ -84,18 +84,6 @@ Strong focus on **architecture, scalability and clean code**.
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matichavez117&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matichavez117&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 - 🚀 Scaling to **Senior+ / Staff Engineer**
