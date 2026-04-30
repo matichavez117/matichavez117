@@ -107,10 +107,3 @@ Strong focus on **architecture, scalability and clean code**.
 > Build things that actually matter."
 
 ---
-
-## 📫 Contact
-
-- 💼 Open to opportunities
-- 🌍 Remote / Global mindset
-
----
